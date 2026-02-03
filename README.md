@@ -1,16 +1,33 @@
-## Hi there 👋
+# Project Title
 
-<!--
-**SabrinaBenghename/sabrinabenghename** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Description
+Short and clear explanation of what the project does and why it exists.
 
-Here are some ideas to get you started:
+## 🧠 Objectives
+- What problem are you solving?
+- Why is it interesting or useful?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Hardware / Tools Used
+- Microcontroller (ex: Arduino, STM32, ESP32)
+- Sensors / actuators
+- Software tools (IDE, libraries)
+
+## ⚙️ How It Works
+Explain the logic, architecture, or flow of the system.
+
+## 🚀 Features
+- Key functionalities
+- Performance highlights
+
+## 📊 Results
+- What works?
+- Measurements, screenshots, outputs
+
+## 🔮 Future Improvements
+- What you’d add or optimize next
+
+## 📂 Project Structure
+Brief explanation of folders/files.
+
+## 👤 Author
+Sabrina Benghename
