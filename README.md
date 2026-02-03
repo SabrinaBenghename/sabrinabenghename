@@ -1,33 +1,60 @@
-# Project Title
+# 👋 Hi, I'm Sabrina
 
-## 📌 Description
-Short and clear explanation of what the project does and why it exists.
+🎓 Electronic & Embedded Systems Engineer  
+🏎️ Motorsport Engineering Enthusiast  
+⚛️ Exploring Quantum Computing & Quantum Finance  
 
-## 🧠 Objectives
-- What problem are you solving?
-- Why is it interesting or useful?
+---
 
-## 🛠️ Hardware / Tools Used
-- Microcontroller (ex: Arduino, STM32, ESP32)
-- Sensors / actuators
-- Software tools (IDE, libraries)
+## 🚀 About Me
 
-## ⚙️ How It Works
-Explain the logic, architecture, or flow of the system.
+I’m an electronic and embedded systems engineer with strong hands-on experience in **microcontrollers** and **real-time systems**.  
+I’m passionate about building **high-performance, data-driven systems**, inspired by motorsport engineering where precision, speed, and reliability matter.
 
-## 🚀 Features
-- Key functionalities
-- Performance highlights
+Alongside embedded development, I’m actively exploring:
+- **Artificial Intelligence**
+- **Computer Vision**
+- **Quantum Computing & Quantum Finance**
 
-## 📊 Results
-- What works?
-- Measurements, screenshots, outputs
+I enjoy learning by building, experimenting, and optimizing—whether it’s code, hardware, or algorithms.
 
-## 🔮 Future Improvements
-- What you’d add or optimize next
+---
 
-## 📂 Project Structure
-Brief explanation of folders/files.
+## 🧠 Technical Interests
 
-## 👤 Author
-Sabrina Benghename
+- Embedded Systems & Microcontrollers  
+- Real-Time & Control Systems  
+- Motorsport Engineering & Race Technology  
+- AI & Computer Vision  
+- Quantum Computing & Optimization  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Languages:** C++, Python  
+- **Embedded:** Microcontrollers, real-time systems  
+- **Software:** Data processing, performance optimization  
+- **Currently learning:** Quantum algorithms, quantum finance models  
+
+---
+
+## 🏁 Mindset
+
+Engineering is about **performance**, **precision**, and **continuous improvement**.  
+I approach projects the same way motorsport approaches racing:
+
+> Optimize. Test. Iterate. Repeat.
+
+---
+
+## 📌 What You’ll Find Here
+
+- Embedded & microcontroller-based projects  
+- AI and computer vision experiments  
+- Learning projects in quantum computing  
+- Clean, documented code focused on performance  
+
+---
+
+⭐ Always learning. Always building. Always pushing limits.
