@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sabrina
+# 👋 Hi, I'm Sabrina (click on repositories for the projects)
 
 🎓 Electronic & Embedded Systems Engineer  
 🏎️ Motorsport Engineering Enthusiast  
